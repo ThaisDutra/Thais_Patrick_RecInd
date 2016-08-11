@@ -1,0 +1,7 @@
+C:\Users\patrick.costa\Desktop\Thais_Patrick_RecInd\Thais_Patrick_RecInd\bin\Debug\Thais_Patrick_RecInd.exe.config
+C:\Users\patrick.costa\Downloads\Thais_Patrick_RecInd\Thais_Patrick_RecInd\bin\Debug\Thais_Patrick_RecInd.exe.config
+C:\Users\patrick.costa\Downloads\Thais_Patrick_RecInd\Thais_Patrick_RecInd\obj\Debug\Thais_Patrick_RecInd.csprojResolveAssemblyReference.cache
+C:\Users\patrick.costa\Downloads\Thais_Patrick_RecInd\Thais_Patrick_RecInd\bin\Debug\Thais_Patrick_RecInd.exe
+C:\Users\patrick.costa\Downloads\Thais_Patrick_RecInd\Thais_Patrick_RecInd\bin\Debug\Thais_Patrick_RecInd.pdb
+C:\Users\patrick.costa\Downloads\Thais_Patrick_RecInd\Thais_Patrick_RecInd\obj\Debug\Thais_Patrick_RecInd.exe
+C:\Users\patrick.costa\Downloads\Thais_Patrick_RecInd\Thais_Patrick_RecInd\obj\Debug\Thais_Patrick_RecInd.pdb
